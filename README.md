@@ -1,2 +1,2 @@
-# generaive_models
+# generative_models
  Torch realization: gan, diffusion, vae, fitting on magicx dataset
